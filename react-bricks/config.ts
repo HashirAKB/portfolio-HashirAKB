@@ -10,7 +10,6 @@ const config: types.ReactBricksConfig = {
   apiKey: process.env.API_KEY,
   pageTypes,
   bricks,
-  logo: '/logo.svg',
   previewPath: '/preview',
   // contentClassName: 'content', // Defined dynamically
   // isDarkColorMode: ...,        // in _app.tsx
